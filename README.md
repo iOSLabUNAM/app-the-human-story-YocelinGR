@@ -1,6 +1,6 @@
 # Resumen de la película
 
-Durante la película, pudimos observar algunas historias de emprendedores en la industria del software y como influyó el crecimiento de Apple en su camino. Algunas ideas que puedo destacar de esta relación, son las siguientes:
+Durante la película, pudimos observar algunas historias de emprendedores en la industria del software y cómo influyó el crecimiento de Apple en su camino. Algunas ideas que puedo destacar de esta relación, son las siguientes:
 
 * La democratización de la computadora a través del surgimiento del iPhone, permitió que la tecnología tuviera gran alcance y cobertura
 
